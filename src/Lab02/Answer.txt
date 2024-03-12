@@ -1,0 +1,4 @@
+In Java, we can not create constructor method to build a DVD by category and a constructor method to built a DVD by title
+at the same time.
+It causes an error "Duplicate method DigitalVideoDisc(String)". In a class, each constructor must have different signal,
+mean that each construction method have the different number or type of parameters
