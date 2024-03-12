@@ -1,0 +1,12 @@
+Answer:
+- The class should implement the Comparable interface is Media class.
+- We override the compareTo() method by this way:
+        @Override
+        public int compareTo(Media media) {
+		if(this.cost > media.getCost()) return 1;
+		else if(this.cost < media.getCost()) return -1;
+		else return (this.title.compareTo(media.getTitle()));
+		}
+This code is illustrate for the compareTo() method by the cost and title. In the case 2 media have the same cost, it compares the title in the ABC order
+- No, only one order is acceptable because there is only 1 function with named compareTo(). For the other order comparing, I think we should create a new method.
+- I can override method compareTo() in class DigitalVideosDisc.
