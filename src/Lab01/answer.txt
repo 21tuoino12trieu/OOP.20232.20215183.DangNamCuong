@@ -1,0 +1,24 @@
+Exercise 6.1
+Question:
+- What happens if users choose "Cancel"?
+- How to customize the options to users, e.g. only two option "Yes" and "No" OR "I do" and "I don't"
+
+Answers:
+- If users choose "Cancel", the default choosen will be returned, the default choosen in this case is "No"
+- To customize the options to users, we can change the "optionType" in JOptionPane.showConfirmDialog method:
+  Defines the set of option buttons that appear at the bottom of the dialog box:
+      .DEFAULT_OPTION
+      .YES_NO_OPTION
+      .YES_NO_CANCEL_OPTION
+      .OK_CANCEL_OPTION
+We aren't limited to this set of option buttons. We can provide any buttons using the options parameter.
+
+Options: A more detailed description of the set of option buttons that will appear at the bottom of the dialog. The usual value for the options parameter is an array of Strings. But parameter type is an array of Objects. A button is created for each object depending on its type
+
+For example:
+ String[] buttons = { "I do","I don't" };
+
+        int rc = JOptionPane.showOptionDialog(null, "Do you want to change to first class ticket?", "Confirmation",
+            JOptionPane.WARNING_MESSAGE, 0, null, buttons, buttons[1]);
+
+            JOptionPane.showMessageDialog(null,"You've chosen: "+(rc==JOptionPane.YES_OPTION?"I do":"I don't"));
