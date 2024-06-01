@@ -16,16 +16,10 @@ public class CartTest {
 
         DigitalVideoDisc dvd3 = new DigitalVideoDisc("Aladin", "Animation", 18.99f);
         cart.addDigitalVideoDisc(dvd3);
-
         //Test the print method
-
         cart.listDVDs();
-
-
         //Test the search methods
-
         cart.searchID(2);
-
         cart.searchName("the lion king");
 
     }

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e29fdb2-be1f-4699-ac38-a0bfee432c81" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP.20232.20215183.DangNamCuong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/Design/Class Diagram0.asta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/Design/Class Diagram0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/Requirement/AIMS UseCase Diagram.asta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/Requirement/UseCase Diagram0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/hust/soict/globalict/aims/Aims.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/hust/soict/globalict/aims/cart/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/hust/soict/globalict/aims/media/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/hust/soict/globalict/aims/media/CompactDisc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/hust/soict/globalict/aims/media/DigitalVideoDisc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/hust/soict/globalict/aims/media/Disc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/hust/soict/globalict/aims/media/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/hust/soict/globalict/aims/media/MediaComparatorByCostTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/hust/soict/globalict/aims/media/MediaComparatorByTitleCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/hust/soict/globalict/aims/media/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/hust/soict/globalict/aims/media/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/hust/soict/globalict/aims/screen/CartScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/hust/soict/globalict/aims/screen/CartScreenController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/hust/soict/globalict/aims/screen/MediaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/hust/soict/globalict/aims/screen/StoreScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/hust/soict/globalict/aims/screen/cart.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/AimProjects/hust/soict/globalict/aims/store/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/Answer.txt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/GUIProject/hust/soict/globalict/javafx/Painter.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/GUIProject/hust/soict/globalict/javafx/Painter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/GUIProject/hust/soict/globalict/javafx/PainterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/GUIProject/hust/soict/globalict/swing/AWTAccumulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/GUIProject/hust/soict/globalict/swing/NumberGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/GUIProject/hust/soict/globalict/swing/SwingAccumulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/OOP_Lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/OtherProjects/hust/soict/ConcatenationInLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/OtherProjects/hust/soict/GarbageCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/OtherProjects/hust/soict/NoGarbage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Lab5/OtherProjects/hust/soict/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab01/ex_6_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab03/AimProjects/globalict/aims/disc/DigitalVideoDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab03/AimProjects/globalict/aims/disc/DigitalVideoDisc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab03/AimProjects/globalict/test/cart/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab03/AimProjects/globalict/test/cart/CartTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="release/lab03" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="release/lab04" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;21tuoino12trieu&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c6df2975-822f-486b-bcf7-82e79229f6c4" />
+        <option name="url" value="https://github.com/21tuoino12trieu/OOP.20232.20215183.DangNamCuong.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2dXQliPD4aMVP8P14rdPHCnT0JI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;release/lab05&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LENOVO/Downloads/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\IdeaProjects\OOP.20232.20215183.DangNamCuong\src\Lab04\AimProjects\Requirement" />
+      <recent name="C:\Users\LENOVO\IdeaProjects\OOP.20232.20215183.DangNamCuong\src\Lab04\AimProjects\Design" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Lab01.ex6_5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Painter">
+    <configuration name="AWTAccumulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_Lab5.GUIProject.hust.soict.globalict.swing.AWTAccumulator" />
+      <module name="OOP.20232.20215183.DangNamCuong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_Lab5.GUIProject.hust.soict.globalict.swing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aims" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_Lab5.AimProjects.hust.soict.globalict.aims.Aims" />
+      <module name="OOP.20232.20215183.DangNamCuong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_Lab5.AimProjects.hust.soict.globalict.aims.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Painter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_Lab5.GUIProject.hust.soict.globalict.javafx.Painter" />
+      <module name="OOP.20232.20215183.DangNamCuong" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\LENOVO\Downloads\openjfx-22.0.1_windows-x64_bin-sdk\javafx-sdk-22.0.1\lib --add-modules javafx.controls,javafx.fxml " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_Lab5.GUIProject.hust.soict.globalict.javafx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreScreen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_Lab5.AimProjects.hust.soict.globalict.aims.screen.StoreScreen" />
+      <module name="OOP.20232.20215183.DangNamCuong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_Lab5.AimProjects.hust.soict.globalict.aims.screen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwingAccumulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_Lab5.GUIProject.hust.soict.globalict.swing.SwingAccumulator" />
+      <module name="OOP.20232.20215183.DangNamCuong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_Lab5.GUIProject.hust.soict.globalict.swing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Aims" />
+      <item itemvalue="Application.AWTAccumulator" />
+      <item itemvalue="Application.Painter" />
+      <item itemvalue="Application.StoreScreen" />
+      <item itemvalue="Application.SwingAccumulator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Painter" />
+        <item itemvalue="Application.StoreScreen" />
+        <item itemvalue="Application.Aims" />
+        <item itemvalue="Application.AWTAccumulator" />
+        <item itemvalue="Application.SwingAccumulator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e29fdb2-be1f-4699-ac38-a0bfee432c81" name="Changes" comment="" />
+      <created>1710152098996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710152098996</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <option name="closed" value="true" />
+      <created>1710205850973</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710205850973</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <option name="closed" value="true" />
+      <created>1710205949710</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710205949710</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <option name="closed" value="true" />
+      <created>1710208147706</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710208147706</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <option name="closed" value="true" />
+      <created>1710214360361</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710214360361</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test">
+      <option name="closed" value="true" />
+      <created>1710214614909</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710214614909</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test">
+      <option name="closed" value="true" />
+      <created>1710219913348</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710219913348</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test">
+      <option name="closed" value="true" />
+      <created>1710220017637</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710220017637</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test">
+      <option name="closed" value="true" />
+      <created>1710220388839</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710220388839</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test">
+      <option name="closed" value="true" />
+      <created>1710220704585</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710220704585</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test">
+      <option name="closed" value="true" />
+      <created>1710231181269</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710231181269</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update">
+      <option name="closed" value="true" />
+      <created>1710595657334</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710595657334</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update">
+      <option name="closed" value="true" />
+      <created>1715790338829</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715790338829</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update">
+      <option name="closed" value="true" />
+      <created>1715790777386</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715790777386</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="release/lab03" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+</project>
